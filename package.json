@@ -1,0 +1,16 @@
+{
+  "name": "@superhero/syntax-check",
+  "version": "0.0.1",
+  "description": "Test for syntax errors",
+  "repository": "git@github.com:superhero/js.syntax-check.git",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Erik Landvall",
+    "email": "erik@landvall.se",
+    "url": "http://erik.landvall.se"
+  },
+  "bin": {
+    "syntax-check": "./bin/syntax-check"
+  }
+}
