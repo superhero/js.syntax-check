@@ -57,25 +57,25 @@ With mocha, or any other test script...
 ## Output
 
 ```
-  Syntax check of files:
+Syntax check of files:
 
-  ✔ ./index.js
-  ✔ ./model/auth/aggregate.js
-  ✔ ./model/auth/index.js
-  ✔ ./model/auth/error/invalid-token.js
-  ✔ ./model/auth/error/unauthorized.js
-  ✔ ./model/log/index.js
-  ✔ ./model/redis/gateway.js
-  ✔ ./model/redis/index.js
-  ✔ ./model/redis/error/key-conflict.js
-  ✔ ./model/redis/gateway-fallback.js
-  ✔ ./model/mysql/gateway.js
-  ✔ ./model/mysql/gateway/transaction.js
-  ✔ ./config.js
-  ✔ ./controller/endpoint/index.js
-  ✔ ./controller/endpoint/v1.leads.js
-  ✔ ./controller/middleware/authenticate.js
-  ✔ ./controller/middleware/authorize.js
+✔ ./index.js
+✔ ./model/auth/aggregate.js
+✔ ./model/auth/index.js
+✔ ./model/auth/error/invalid-token.js
+✔ ./model/auth/error/unauthorized.js
+✔ ./model/log/index.js
+✔ ./model/redis/gateway.js
+✔ ./model/redis/index.js
+✔ ./model/redis/error/key-conflict.js
+✔ ./model/redis/gateway-fallback.js
+✔ ./model/mysql/gateway.js
+✔ ./model/mysql/gateway/transaction.js
+✔ ./config.js
+✔ ./controller/endpoint/index.js
+✔ ./controller/endpoint/v1.leads.js
+✔ ./controller/middleware/authenticate.js
+✔ ./controller/middleware/authorize.js
 
-  Successful syntax check of 30 files
+Successful syntax check of 30 files
 ```
