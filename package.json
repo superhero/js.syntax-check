@@ -1,6 +1,6 @@
 {
   "name": "@superhero/syntax-check",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test for syntax errors",
   "repository": "git@github.com:superhero/js.syntax-check.git",
   "main": "index.js",
