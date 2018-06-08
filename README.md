@@ -23,7 +23,7 @@ A "syntax check test" module that utilizes the `node -c` command through a bash 
 }
 ```
 
-## Example
+## Example 1
 
 ```js
 {
@@ -37,7 +37,9 @@ A "syntax check test" module that utilizes the `node -c` command through a bash 
 }
 ```
 
-## Example | with mocha, or any other test script
+## Example 2
+
+With mocha, or any other test script...
 
 ```js
 {
